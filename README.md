@@ -1,16 +1,9 @@
-# mobi_fix
+Mob Fix - Vehicle Repair & Maintenance Service App
+Mob Fix is a real-time vehicle repair and maintenance service app built using Flutter and Firebase. It allows customers to book mechanics for on-demand or scheduled services and manage vehicle-related tasks. Mechanics can offer expertise, manage inventory, and respond to service requests.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features:
+Customer Flow: Users can add vehicles, book real-time or scheduled repair services, and receive live updates on service status.
+Mechanic Flow: Mechanics can showcase their expertise, manage inventory, accept job requests, and track repair progress.
+User Authentication: Secure sign-up and login for both customers and mechanics using Firebase Authentication.
+Firestore Integration: Customer and mechanic data, including service requests, inventory, and vehicle details, are stored in Firebase Firestore.
+Responsive UI: Built with responsive design using Flutter to provide a seamless experience across devices.
