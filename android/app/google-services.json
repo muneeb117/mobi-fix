@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924487955407",
+    "project_id": "mobifixapp",
+    "storage_bucket": "mobifixapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924487955407:android:6d7e1d32b384d961c858ba",
+        "android_client_info": {
+          "package_name": "com.example.mobi_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgOGA8s5y76sGZhQF9czRDyUlr8HTXcNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
